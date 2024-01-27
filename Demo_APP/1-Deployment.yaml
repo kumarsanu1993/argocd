@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: aparichit/nginx:v2
+        image: aparichit/nginx:v6
         ports:
         - containerPort: 80
